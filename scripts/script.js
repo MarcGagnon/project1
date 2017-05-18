@@ -1,1 +1,2 @@
-alert('Tout fonctionne bien.');
+var nom = "Marco";
+alert('Tout fonctionne bien, ' + nom '.');
